@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+---notes
+The db.json is for fake backend storing user authorization info with product list.
+Passwords are encrypted using bcryptjs. They're stupid passwords as placeholder/samples for reference   purposes only..
